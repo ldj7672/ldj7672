@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldj7672&show_icons=true&theme=radical)
+
 <!--
 **ldj7672/ldj7672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
