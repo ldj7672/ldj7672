@@ -10,7 +10,7 @@
 
 ### 🎯 Career & Education
 - AI & Computer Vision Engineer at an IT Platform Company  
-- M.S. in Computer Engineering (Computer Vision Lab)  
+- M.S. in Computer Science (Computer Vision Lab)  
 - B.S. in Electrical Engineering  
 
 
