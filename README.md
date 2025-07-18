@@ -1,16 +1,22 @@
-## Hi there 👋
+## Dongjin Lee
 
-<!--
-**ldj7672/ldj7672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 Areas of Interest
+- AI & Computer Vision
+- Object Detection & Segmentation
+- Vision-Language Models (VLM)
+- 3D Computer Vision & Neural Rendering 
+- Image Generation (Diffusion Models)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Background
+- B.S. in Electrical Engineering  
+- M.S. in Computer Engineering (Computer Vision Lab)
+
+---
+
+### 📫 Contact & Links
+- [LinkedIn](https://www.linkedin.com/in/%EB%8F%99%EC%A7%84-%EC%9D%B4-00869919b/)  
+- [Email](mailto:ldj923@kakao.com)
