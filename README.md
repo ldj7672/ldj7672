@@ -2,17 +2,16 @@
 
 ### 💡 Areas of Interest
 - AI & Computer Vision
-- Object Detection & Segmentation
+- Perception: Detection, Segmentation
 - Vision-Language Models (VLM)
-- 3D Computer Vision & Neural Rendering 
-- Image Generation (Diffusion Models)
-
+- 3D Computer Vision
+- Image & Video Generation
 
 ### 🎯 Career & Education
-- AI & Computer Vision Engineer at an IT Platform Company  
+- ML Research Engineer
+- AI & Computer Vision Engineer
 - M.S. in Computer Science (Computer Vision Lab)  
-- B.S. in Electrical Engineering  
-
+- B.S. in Electronic Engineering  
 
 ### 📫 Contact & Links
 - Email: ldj923@kakao.com
