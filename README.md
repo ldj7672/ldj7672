@@ -1,15 +1,15 @@
 ## Dongjin Lee
 
 ### 💡 Areas of Interest
-- AI & Computer Vision
-- Perception: Detection, Segmentation
-- Vision-Language Models (VLM)
-- 3D Computer Vision
-- Image & Video Generation
+- Diffusion-based Image & Video Generation
+- Perception & 3D Coumputer Vision
+- HD Map Generation
+- OCR & Document Information Extraction 
+- Multi-modal AI
 
 ### 🎯 Career & Education
 - ML Research Engineer
-- AI & Computer Vision Engineer
+- AI & Computer Vision Research Engineer
 - M.S. in Computer Science (Computer Vision Lab)  
 - B.S. in Electronic Engineering  
 
