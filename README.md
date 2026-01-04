@@ -1,11 +1,10 @@
 ## Dongjin Lee
 
 ### 💡 Areas of Interest
-- Diffusion-based Image & Video Generation
-- Perception & 3D Coumputer Vision
-- HD Map Generation
-- OCR & Document Information Extraction 
+- Image & Video Generation
 - Multi-modal AI
+- Perception & 3D Coumputer Vision
+- OCR & Document Information Extraction 
 
 ### 🎯 Career & Education
 - ML Research Engineer
