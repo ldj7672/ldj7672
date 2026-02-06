@@ -1,14 +1,14 @@
-## Dongjin Lee
+## Jin
 
 ### 💡 Areas of Interest
 - Image & Video Generation
 - Multi-modal AI
 - Perception & 3D Coumputer Vision
-- OCR & Document Information Extraction 
+- OCR & Document Information Extraction
+- Training Data Curation 
 
 ### 🎯 Career & Education
-- ML Research Engineer
-- AI & Computer Vision Research Engineer
+- ML・Vision Research Engineer
 - M.S. in Computer Science (Computer Vision Lab)  
 - B.S. in Electronic Engineering  
 
