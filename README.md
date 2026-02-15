@@ -5,7 +5,8 @@
 - Multi-modal AI
 - Perception & 3D Coumputer Vision
 - OCR & Document Information Extraction
-- Training Data Curation 
+- ML Data Pipeline Development
+- Data Curation
 
 ### 🎯 Career & Education
 - ML・Vision Research Engineer
